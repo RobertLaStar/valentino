@@ -1,0 +1,23 @@
+a {
+	color: white;
+	font-weight: 100px;
+	font-size: 20px;
+}
+
+.btn-blue {
+    display: inline-block;
+    background-color: #a94c35;
+    border-radius: 4px;
+    text-align: center;
+    padding: 10px;
+    width: 135px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.btn-blue:hover {
+  background-color: #04102a;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
